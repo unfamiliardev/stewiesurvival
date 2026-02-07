@@ -1,0 +1,96 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.30.164.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754075924152
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754076286906
+  login: 1754073638405
+money: '2883161.00'
+last-account-name: GG_FLIPPERYT
+nickname: Stewie
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -78.0494104703696
+  y: 80.89577424358599
+  z: 566.8037742760775
+  yaw: -14.981597900390625
+  pitch: 30.713029861450195
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -66.80374683627214
+  y: 69.0
+  z: 630.7582148701026
+  yaw: -174.20204162597656
+  pitch: 21.402511596679688
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -36.93712283907686
+    y: 64.0
+    z: 554.8821236186088
+    yaw: -105.6123046875
+    pitch: 36.34993362426758
+  iron:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -5825.916342106542
+    y: 79.0
+    z: 9231.822153775849
+    yaw: -118.24910736083984
+    pitch: 19.13397979736328
+  shop:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -79.6615893549305
+    y: 73.0
+    z: 618.2797362970074
+    yaw: -85.25997924804688
+    pitch: 47.22677993774414
+  storage:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -80.69999998807907
+    y: 68.0
+    z: 613.8152368667423
+    yaw: -66.57600402832031
+    pitch: -17.633718490600586
+  farm:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -125.67012909373436
+    y: 66.0
+    z: 560.3000000119209
+    yaw: -81.59310913085938
+    pitch: 29.276670455932617
+  comp:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -790.9701094137143
+    y: 77.03734447202446
+    z: 342.1149799007378
+    yaw: -74.347412109375
+    pitch: 27.942481994628906
+  park:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -79.72091230724662
+    y: 72.0
+    z: 509.23902637289825
+    yaw: -4.911865234375
+    pitch: 30.878408432006836

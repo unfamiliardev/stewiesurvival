@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.223.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754656610618
+  login: 1754656111995
+money: '0'
+last-account-name: ParaIndian
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -141.86691
+  y: 64.0
+  z: 575.6472
+  yaw: 33.369415283203125
+  pitch: 12.446334838867188
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 0.30000999999999994
+  y: 67.0
+  z: -14.69999
+  yaw: -2.47625732421875
+  pitch: 19.848159790039062

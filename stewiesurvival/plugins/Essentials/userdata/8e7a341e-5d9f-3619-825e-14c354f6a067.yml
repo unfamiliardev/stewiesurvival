@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.51.13.238
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752493473808
+  login: 1752492517941
+money: '0'
+last-account-name: jjpullone
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 57.07009700367341
+  y: 75.0
+  z: 300.51562316266114
+  yaw: 168.9404296875
+  pitch: 16.799972534179688
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 3.699999988079071
+  y: 70.0
+  z: 4.206702786399623
+  yaw: -105.44999694824219
+  pitch: 24.7499942779541

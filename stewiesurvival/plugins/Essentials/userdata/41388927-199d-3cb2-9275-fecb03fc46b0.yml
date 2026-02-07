@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 102.214.84.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754055168270
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754537139369
+  login: 1754537109417
+money: '0'
+last-account-name: Pitury
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 8.199999988079071
+  y: 63.0
+  z: -9.0
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -110.2007635240848
+  y: 69.0
+  z: 549.6490171567235
+  yaw: 179.5379638671875
+  pitch: 26.599977493286133

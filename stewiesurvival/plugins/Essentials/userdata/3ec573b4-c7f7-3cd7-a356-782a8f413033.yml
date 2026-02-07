@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.212.18.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754053542361
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754056517267
+  login: 1754053495148
+money: '0'
+last-account-name: A_Lost_Cheez_It
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -784.5683604849074
+  y: 78.03732794345244
+  z: 350.6023748247587
+  yaw: -125.34912109375
+  pitch: 34.90062713623047
+homes:
+  a_lost_cheez_it:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -26.163786081492027
+    y: 70.0
+    z: 459.2243148474208
+    yaw: 0.452911376953125
+    pitch: 88.93526458740234
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -14.976596037783157
+  y: 67.0
+  z: 472.901364736152
+  yaw: 4.462432861328125
+  pitch: 20.0832576751709

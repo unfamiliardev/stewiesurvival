@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.215.49.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754324203258
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754383420695
+  login: 1754382626392
+money: '13470.00'
+last-account-name: RoyalKala
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -131.52731965066917
+  y: 67.24918707874468
+  z: 582.7649187004616
+  yaw: -0.5969042181968689
+  pitch: 9.75015640258789
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -28.996886426811546
+  y: 63.0
+  z: 562.6992142104225
+  yaw: -132.29150390625
+  pitch: 7.650057792663574

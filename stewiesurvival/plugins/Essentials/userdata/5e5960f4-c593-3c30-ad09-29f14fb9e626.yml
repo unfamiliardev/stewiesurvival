@@ -1,0 +1,135 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.169.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754304236063
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754304460421
+  login: 1754303746116
+money: '13308.00'
+last-account-name: akshatchaudhary
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -56.6147828696888
+  y: 67.0
+  z: 572.8197511136236
+  yaw: -174.8424530029297
+  pitch: 5.996876239776611
+homes:
+  seb:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -35.71852994339727
+    y: 65.0
+    z: 528.9519301994296
+    yaw: -165.65451049804688
+    pitch: 8.058666229248047
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -0.699999988079071
+    y: 5.0
+    z: 562.3000000119209
+    yaw: -50.6605224609375
+    pitch: -62.28121566772461
+  cat:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -47.36464465779634
+    y: 67.0
+    z: 543.3888956008506
+    yaw: -105.3680191040039
+    pitch: 50.332115173339844
+  base:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: 13.972795003445084
+    y: -59.0
+    z: 532.3000000119209
+    yaw: -153.8782958984375
+    pitch: 6.189413070678711
+  xpfarm:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -263.99375967870634
+    y: 181.0
+    z: 485.7115151083929
+    yaw: -107.1791763305664
+    pitch: 50.203025817871094
+  iron:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -5802.464334064386
+    y: 80.0
+    z: 9230.745379804877
+    yaw: 99.57290649414062
+    pitch: 10.277737617492676
+  app:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -82.5
+    y: 93.0625
+    z: 589.5
+    yaw: 52.57503128051758
+    pitch: 38.742740631103516
+  end:
+    world: e5ca0fbe-48d8-428c-9480-0900a9b545b7
+    world-name: world_the_end
+    x: -4071.2408457324627
+    y: 141.0
+    z: 7079.049662879358
+    yaw: 171.208984375
+    pitch: 23.36025047302246
+  t:
+    world: e5ca0fbe-48d8-428c-9480-0900a9b545b7
+    world-name: world_the_end
+    x: -6091.296686251623
+    y: 147.0
+    z: 6115.320055712556
+    yaw: 174.5159454345703
+    pitch: -1.615447759628296
+  h:
+    world: e5ca0fbe-48d8-428c-9480-0900a9b545b7
+    world-name: world_the_end
+    x: -2193.699999988079
+    y: 85.0
+    z: 12503.699999988079
+    yaw: -128.76466369628906
+    pitch: 32.49203109741211
+  enderman:
+    world: e5ca0fbe-48d8-428c-9480-0900a9b545b7
+    world-name: world_the_end
+    x: 256.46535054054374
+    y: 57.0
+    z: -33.26129226209595
+    yaw: 87.88909912109375
+    pitch: 26.862640380859375
+  xpxp:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -81.30000001192093
+    y: 26.0
+    z: -1265.323563656964
+    yaw: 90.10505676269531
+    pitch: 38.04597091674805
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 7.990444309571072
+  y: 63.5
+  z: -7.965916046135793
+  yaw: -85.72152709960938
+  pitch: 90.0

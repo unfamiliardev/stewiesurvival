@@ -1,0 +1,73 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1761655994059
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761656935392
+  login: 1761655816742
+money: '7693.00'
+last-account-name: trofi1
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -49.403362223896075
+  y: 69.0
+  z: 521.4637540153053
+  yaw: 2.45648193359375
+  pitch: 6.597685813903809
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -87.6348873023826
+  y: 63.0
+  z: 493.91867718620153
+  yaw: -16.16131591796875
+  pitch: 8.49006462097168
+nickname: trofi1
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -35.97909089252888
+    y: 65.0
+    z: 529.9085385231707
+    yaw: 128.338623046875
+    pitch: 15.420705795288086
+  myshop:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -41.48466180001234
+    y: 64.0
+    z: 610.5471836894661
+    yaw: -91.32953643798828
+    pitch: 2.428339958190918
+  xpfarm:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -263.0858791251188
+    y: 181.0
+    z: 485.72812380996044
+    yaw: -144.926513671875
+    pitch: 23.790124893188477
+  apt:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -82.12253216951007
+    y: 77.0625
+    z: 590.6242267633596
+    yaw: -89.8597412109375
+    pitch: 3.622797727584839
+confirm-pay: true

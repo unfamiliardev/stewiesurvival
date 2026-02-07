@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.223.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754747780629
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754747885666
+  login: 1754746295087
+money: '0'
+last-account-name: KimDokjaTheRein
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 70.0821211226741
+  y: 88.0
+  z: 492.7427415604444
+  yaw: 77.20697021484375
+  pitch: 23.09992790222168
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -243.07363159146226
+  y: 65.0
+  z: -1320.5299883621003
+  yaw: 8.119293212890625
+  pitch: 1.6497371196746826

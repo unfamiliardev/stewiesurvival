@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 195.202.232.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1755010053420
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754992535448
+  login: 1755009756064
+money: '0'
+last-account-name: KeetanXD
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 8.5
+  y: 64.0
+  z: -8.5
+  yaw: 5.700000286102295
+  pitch: 35.40000534057617
+lastlocation:
+  world: f2bbf28c-48d8-47be-a75c-b318348bf91d
+  world-name: world_nether
+  x: 432.5
+  y: 128.0
+  z: 487.5
+  yaw: -159.0736083984375
+  pitch: 30.599979400634766
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -74.69999998807907
+    y: 34.0
+    z: 9.830500677085244
+    yaw: 90.097900390625
+    pitch: -0.44991743564605713

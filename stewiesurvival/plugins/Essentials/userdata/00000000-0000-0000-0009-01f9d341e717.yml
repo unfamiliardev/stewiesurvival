@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1753366674996
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753367997132
+  login: 1753367253417
+money: '0'
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -82.022125
+  y: 71.0
+  z: 512.13324
+  yaw: -94.65428161621094
+  pitch: 16.794815063476562
+last-account-name: trofi2748
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 4.996013
+  y: 64.5
+  z: -10.62423
+  yaw: 63.86302185058594
+  pitch: 15.58270263671875

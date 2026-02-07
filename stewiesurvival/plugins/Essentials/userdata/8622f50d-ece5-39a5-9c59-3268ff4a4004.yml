@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.175.189.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1758965107671
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1758965543488
+  login: 1758964518478
+money: '0'
+last-account-name: itz_mastee
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -69.78047309370145
+  y: 71.0
+  z: 570.7661680076562
+  yaw: 139.0047607421875
+  pitch: 25.949983596801758
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -59.0503988636872
+  y: 69.0
+  z: 544.5768608050327
+  yaw: -135.9010009765625
+  pitch: 29.100017547607422

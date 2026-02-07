@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.118.249.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752522540520
+  login: 1752522467493
+money: '0'
+last-account-name: mihaitzzaa
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -300.73585546896203
+  y: 57.023551719485226
+  z: -255.73601793055667
+  yaw: 129.78880310058594
+  pitch: 1.4567480087280273
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 7.128424227451714
+  y: 123.0
+  z: -8.44892150217591
+  yaw: -48.79620361328125
+  pitch: 83.2178955078125

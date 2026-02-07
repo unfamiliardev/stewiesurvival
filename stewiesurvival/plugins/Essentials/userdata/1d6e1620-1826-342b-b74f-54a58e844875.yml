@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.199.12.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1759250364749
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1759251223232
+  login: 1759250219774
+money: '0'
+last-account-name: 1drinkdisielFuel
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 19.51194153016776
+  y: 66.0
+  z: -267.2674378317396
+  yaw: 106.2369384765625
+  pitch: 18.073204040527344
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -15.300000011920929
+  y: 52.0
+  z: -20.623002275596317
+  yaw: 78.6534423828125
+  pitch: 11.283653259277344

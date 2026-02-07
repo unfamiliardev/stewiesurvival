@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.16.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752434520365
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752434772125
+  login: 1752434168910
+money: '200.250'
+last-account-name: sirbignutz1
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -13.487500011920929
+  y: 67.0
+  z: 485.8930267097559
+  yaw: -121.97433471679688
+  pitch: 30.058137893676758
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -78.30000001192093
+  y: 73.0
+  z: 616.6954223527528
+  yaw: -60.72495651245117
+  pitch: 24.756999969482422

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.2.58.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1759505442736
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1760628796479
+  login: 1760627894411
+money: '3159183.50'
+last-account-name: sakuboi6767
+lastlocation:
+  world: f2bbf28c-48d8-47be-a75c-b318348bf91d
+  world-name: world_nether
+  x: 47.621076056410836
+  y: 52.0
+  z: 98.00050350048753
+  yaw: 13.61395263671875
+  pitch: 41.775272369384766
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -22.5
+  y: 64.0
+  z: 559.9063548459033
+  yaw: 84.18115234375
+  pitch: 16.94993782043457
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -185.4954000283528
+    y: 63.0
+    z: 520.2732539835533
+    yaw: -90.74742126464844
+    pitch: 2.1000139713287354
+nickname: saku
+confirm-pay: true

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 149.102.244.103
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1753190362199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753201471937
+  login: 1753201395031
+money: '0'
+last-account-name: manshutyo
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 7.990444309571072
+  y: 63.5
+  z: -7.965916046135793
+  yaw: -85.72152709960938
+  pitch: 90.0
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -100.64542570495334
+    y: 69.0
+    z: 566.752671749919
+    yaw: -51.9381103515625
+    pitch: 11.321260452270508
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 8.445992735332283
+  y: 64.5
+  z: -1.4687387019258196
+  yaw: 28.578460693359375
+  pitch: -33.450008392333984

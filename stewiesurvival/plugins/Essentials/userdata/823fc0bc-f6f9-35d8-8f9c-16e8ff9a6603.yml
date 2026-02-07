@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.163.148.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752327301268
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752329158714
+  login: 1752327236065
+money: '0'
+last-account-name: Oxysome
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -79.48952803035033
+  y: 72.0
+  z: 516.866417005035
+  yaw: 109.48828125
+  pitch: 67.3866958618164
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 9.883857576285553
+  y: 64.5
+  z: -7.06742453689847
+  yaw: -58.550811767578125
+  pitch: 85.39408874511719

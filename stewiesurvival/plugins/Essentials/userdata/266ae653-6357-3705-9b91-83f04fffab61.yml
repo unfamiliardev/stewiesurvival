@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.66.30.41
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754998087809
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754998301123
+  login: 1754997005062
+money: '0'
+last-account-name: VirreBirre1234
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 421.4271539126672
+  y: 72.0
+  z: 663.1977861111346
+  yaw: -29.3216552734375
+  pitch: 24.108266830444336
+lastlocation:
+  world: e5ca0fbe-48d8-428c-9480-0900a9b545b7
+  world-name: world_the_end
+  x: 259.6381015260483
+  y: 57.0
+  z: -31.691574016271705
+  yaw: -179.447265625
+  pitch: 8.449886322021484

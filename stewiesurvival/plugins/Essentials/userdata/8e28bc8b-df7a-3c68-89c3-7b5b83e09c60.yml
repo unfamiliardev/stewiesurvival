@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.181.42.212
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1751852470378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751852477523
+  login: 1751850998434
+money: '0'
+last-account-name: Catmo8559
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -47.06284964585457
+  y: 66.0
+  z: 546.0460409322815
+  yaw: -7.051513671875
+  pitch: 19.199981689453125
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 7.5
+  y: 64.0000001
+  z: -7.5
+  yaw: -80.17153930664062
+  pitch: 10.199992179870605
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -53.30165359826853
+    y: 70.0
+    z: 546.3768029627274
+    yaw: 178.0484619140625
+    pitch: 57.44998550415039

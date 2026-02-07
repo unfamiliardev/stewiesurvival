@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.15.219.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1758741332548
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1758906940673
+  login: 1758906905888
+money: '0'
+last-account-name: McDUCK0_0
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -22.17812316080243
+  y: 45.36409046747344
+  z: 590.5594747304124
+  yaw: -108.0302963256836
+  pitch: -20.099870681762695
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -196.78044069938292
+  y: 75.0
+  z: -1318.0062513915948
+  yaw: -88.9498291015625
+  pitch: 13.199971199035645
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -196.73768123005027
+    y: 75.0
+    z: -1319.2344933817792
+    yaw: -64.95000457763672
+    pitch: 20.249980926513672

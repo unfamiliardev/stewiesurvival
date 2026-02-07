@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.70.132.212
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1758805582380
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1758717595902
+  login: 1758805398756
+money: '0'
+last-account-name: OutsideRogue86
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -217.61156500446893
+  y: 67.0
+  z: -348.53024964855126
+  yaw: -100.2076416015625
+  pitch: 18.90003204345703
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 8.058354010718162
+  y: 70.0
+  z: 13.760444577155335
+  yaw: 150.00003051757812
+  pitch: 90.0

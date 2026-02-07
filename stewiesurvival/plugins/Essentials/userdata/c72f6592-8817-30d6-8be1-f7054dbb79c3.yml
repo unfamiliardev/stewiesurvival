@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.164.69.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754591098009
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754591147817
+  login: 1754589647641
+money: '0'
+last-account-name: Crusty_W
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 88.30000001192093
+  y: 53.0
+  z: -61.57860530518503
+  yaw: 108.90008544921875
+  pitch: 10.80003833770752
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 10.430458975702221
+  y: 64.5
+  z: -8.633006740184012
+  yaw: 122.47842407226562
+  pitch: 4.200016021728516

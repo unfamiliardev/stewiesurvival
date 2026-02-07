@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.167.189.221
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1758698082000
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1759587915602
+  login: 1759587830648
+money: '2260.00'
+last-account-name: THEBEST7192
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 91.70740174153164
+  y: 54.5
+  z: -53.529862980744284
+  yaw: -99.44845581054688
+  pitch: 13.2007474899292
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -78.91910421991871
+  y: 70.0
+  z: 593.6732980905631
+  yaw: -117.90029907226562
+  pitch: 24.00010108947754
+homes:
+  hjem:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: 90.69999998807907
+    y: 53.0
+    z: -53.53127509373255
+    yaw: -147.44851684570312
+    pitch: 16.350818634033203
+nickname: thebest7192

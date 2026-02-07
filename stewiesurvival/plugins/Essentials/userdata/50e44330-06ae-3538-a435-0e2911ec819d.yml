@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 206.83.122.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1758966555988
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1758966780971
+  login: 1758966782827
+money: '0'
+last-account-name: partyisthebest12
+logoutlocation:
+  world: f2bbf28c-48d8-47be-a75c-b318348bf91d
+  world-name: world_nether
+  x: -259.91261481033746
+  y: 66.0
+  z: 77.73647629957497
+  yaw: -6.88653564453125
+  pitch: 10.72830867767334
+lastlocation:
+  world: f2bbf28c-48d8-47be-a75c-b318348bf91d
+  world-name: world_nether
+  x: -306.46673336989636
+  y: 60.0
+  z: 90.76650969755298
+  yaw: 84.61383056640625
+  pitch: 7.278283596038818

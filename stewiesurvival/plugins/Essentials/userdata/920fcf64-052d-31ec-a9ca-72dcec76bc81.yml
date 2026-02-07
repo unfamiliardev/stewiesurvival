@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.196.201.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1759062131544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1759063379566
+  login: 1759062907577
+money: '0'
+last-account-name: meatman
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 9.139235609916243
+  y: 64.5
+  z: -7.9485934112247225
+  yaw: -147.15000915527344
+  pitch: 8.25000286102295
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -83.07964491064695
+  y: 131.36057891812686
+  z: 573.9265400424299
+  yaw: -179.8951416015625
+  pitch: 45.150020599365234

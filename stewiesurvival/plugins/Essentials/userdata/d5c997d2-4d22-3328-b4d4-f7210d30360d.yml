@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.63.186.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1758795960880
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1758796000640
+  login: 1758804245569
+money: '0'
+last-account-name: kitlerRRAAHH
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -50.796584641949096
+  y: 66.0
+  z: 696.0657471493745
+  yaw: 109.04998779296875
+  pitch: 90.0
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 6.4899384868017105
+  y: 64.5
+  z: -11.200439517541419
+  yaw: 1.578399658203125
+  pitch: 20.549997329711914

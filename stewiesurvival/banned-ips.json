@@ -1,0 +1,16 @@
+[
+  {
+    "ip": "46.5.20.211",
+    "created": "2025-07-22 16:23:35 +0300",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "149.40.62.60",
+    "created": "2025-07-22 17:10:52 +0300",
+    "source": "§4~Seb§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

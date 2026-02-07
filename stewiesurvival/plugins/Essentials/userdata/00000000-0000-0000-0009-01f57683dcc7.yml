@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.58.48.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754503207349
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754503269878
+  login: 1754500429720
+money: '0'
+last-account-name: Kazuko772685
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -232.27597
+  y: 69.0
+  z: -1282.1105
+  yaw: -153.34727478027344
+  pitch: 27.922988891601562
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -159.5871
+  y: 63.0
+  z: -1018.652
+  yaw: -108.0658187866211
+  pitch: 38.9102783203125
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -231.63821
+    y: 69.0
+    z: -1283.6346
+    yaw: -97.42890167236328
+    pitch: 37.61871337890625

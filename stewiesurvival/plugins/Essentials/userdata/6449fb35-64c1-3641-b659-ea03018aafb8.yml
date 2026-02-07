@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.175.25.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1758718074485
+  login: 1758718052940
+money: '0'
+last-account-name: DunkeyKronk
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 8.0
+  y: 63.0
+  z: -9.0
+  yaw: -3.0
+  pitch: -3.9000003337860107
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 70.69999998807907
+  y: 68.0
+  z: -43.30000001192093
+  yaw: 127.5005111694336
+  pitch: 26.400047302246094

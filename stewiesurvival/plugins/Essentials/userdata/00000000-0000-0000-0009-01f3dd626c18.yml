@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.120.170.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1751819139476
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751819242381
+  login: 1751818878664
+money: '0'
+last-account-name: mamaroach7191
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 16.346054
+  y: 65.0
+  z: -8.120397
+  yaw: -84.31809997558594
+  pitch: -2.08740234375
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -16.221762
+  y: 23.0625
+  z: -32.122425
+  yaw: -161.91036987304688
+  pitch: 78.9862060546875

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.16.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754470841659
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754556595077
+  login: 1754555905268
+money: '5487.00'
+last-account-name: Goose_2
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -135.17616228890373
+  y: 83.74611024541451
+  z: -1341.0220591285986
+  yaw: -102.52923583984375
+  pitch: 47.374393463134766
+lastlocation:
+  world: e5ca0fbe-48d8-428c-9480-0900a9b545b7
+  world-name: world_the_end
+  x: -6704.286944646582
+  y: 179.0
+  z: -880.2141049729613
+  yaw: -38.96249771118164
+  pitch: 49.81753158569336
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -13.878673108025017
+    y: 63.0
+    z: 492.1911868981946
+    yaw: 175.3438720703125
+    pitch: 2.3468828201293945
+  eb:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -752.7781825181186
+    y: 89.86608572514375
+    z: 358.3315520253104
+    yaw: 96.34014892578125
+    pitch: 37.715824127197266

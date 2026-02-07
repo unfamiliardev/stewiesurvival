@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.51.19.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752493147962
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752498141294
+  login: 1752491894890
+money: '0'
+last-account-name: passafico
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -1070.300000011921
+  y: 72.0
+  z: 416.50981343308086
+  yaw: 69.264404296875
+  pitch: 30.56082534790039
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -87.8439925178216
+  y: 63.0
+  z: 175.9347086509065
+  yaw: 155.43704223632812
+  pitch: 23.829185485839844
+homes:
+  manu:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -67.69999998807907
+    y: -16.0
+    z: 892.3990573352306
+    yaw: -68.24649810791016
+    pitch: 84.16645812988281
+  manw:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -67.69999998807907
+    y: -16.0
+    z: 892.3990573352306
+    yaw: -68.24649810791016
+    pitch: 84.16645812988281

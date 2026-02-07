@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.193.255.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1753357793698
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753365807582
+  login: 1753365385511
+money: '0'
+last-account-name: Rote_Ratte_1914
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -38.69999998807907
+  y: 65.5625
+  z: 526.2375000119209
+  yaw: -38.54925537109375
+  pitch: 6.29988956451416
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -56.28329886472525
+  y: 73.0
+  z: 597.3943768644613
+  yaw: 67.63330078125
+  pitch: 30.6001033782959

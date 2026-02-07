@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.162.86.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754307807971
+  login: 1754305858998
+money: '0'
+last-account-name: Mankybu
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 24.763174014602207
+  y: 70.0
+  z: 617.4544589631686
+  yaw: -6.465301513671875
+  pitch: 14.222980499267578
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -53.96732463727244
+  y: 69.0
+  z: 534.9073298655866
+  yaw: 27.0997314453125
+  pitch: 32.20001220703125

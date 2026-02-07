@@ -1,0 +1,9 @@
+config.version: 1.6.2
+kick.delay: '%ping% + 200'
+kick.message: '&cAuthorization error!'
+kick.outdated: '&cYou need &aPacket Auth %version% or newer &cto play on this server!'
+storage.mode: file
+tokenDisabling.enabled: 'false'
+tokengen.enabled: 'true'
+tokengen.length: '4096'
+tokengen.symbols: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789

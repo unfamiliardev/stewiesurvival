@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.164.69.216
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754937700212
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754937949516
+  login: 1754937486195
+money: '0'
+last-account-name: AdolfHitler
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -231.63877944429836
+  y: 60.0
+  z: -1360.1715365406985
+  yaw: 25.949440002441406
+  pitch: 33.60000228881836
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 7.9051344873829406
+  y: 63.5
+  z: -8.193753951757344
+  yaw: -12.371431350708008
+  pitch: 12.29999828338623

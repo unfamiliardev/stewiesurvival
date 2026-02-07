@@ -1,0 +1,504 @@
+[10:28:47] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.7+8-LTS-245; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[10:28:47] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) for Minecraft 1.21.4
+[10:28:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[10:28:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 27 plugins
+[10:28:52] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (3):
+ - CleanerX (1.5.1-DEV), FancyHolograms (2.5.0), PaperTweaks (0.5.0)
+[10:28:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (24):
+ - Backuper (3.4.4), CleanPing (1.7.0), ClientDetectorPlus (1.0.1), DiscordRelay (1.0.2), Essentials (2.21.1), GSit (2.4.2), Geyser-Spigot (2.8.3-SNAPSHOT), LPC (3.6.2), LiveKit (1.4.8), Logger (1.8.0.15), LuckPerms (5.5.9), Maintenance (4.3.0), Orebfuscator (5.5.4), Passky (3.1.0), ProtocolLib (5.4.0), SkinsRestorer (15.8.2), TheNewEconomy (0.1.3.5), TreeChopper (1.21.4-1.1), ViaBackwards (5.4.1), ViaVersion (5.4.2), ViaVersion (5.4.2-SNAPSHOT), WorldEdit (7.3.16+cbf4bd5), WorldSpawns (3.1.1), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[10:28:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:28:57] [ServerMain/INFO]: Loaded 1370 recipes
+[10:28:57] [ServerMain/INFO]: Loaded 1481 advancements
+[10:28:57] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[10:28:57] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 155.0ms
+[10:28:57] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[10:28:57] [Server thread/INFO]: Loading properties
+[10:28:57] [Server thread/INFO]: This server is running Paper version 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[10:28:57] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[10:28:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:28:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:28:57] [Server thread/INFO]: [MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[10:28:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[10:28:57] [Server thread/INFO]: Default game type: SURVIVAL
+[10:28:57] [Server thread/INFO]: Generating keypair
+[10:28:57] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[10:28:58] [Server thread/INFO]: Using default channel type
+[10:28:58] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[10:28:58] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[10:28:58] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'ViaVersion' for files 'plugins\ViaVersion-5.4.2.jar' and 'plugins\ViaVersion-5.4.2-SNAPSHOT.jar' in 'plugins'
+[10:28:58] [Server thread/INFO]: [SpigotLibraryLoader] [ClientDetectorPlus] Loading 3 libraries... please wait
+[10:28:58] [Server thread/INFO]: [SpigotLibraryLoader] [ClientDetectorPlus] Loaded library D:\lil diddy server\libraries\commons-codec\commons-codec\1.17.0\commons-codec-1.17.0.jar
+[10:28:58] [Server thread/INFO]: [SpigotLibraryLoader] [ClientDetectorPlus] Loaded library D:\lil diddy server\libraries\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar
+[10:28:58] [Server thread/INFO]: [SpigotLibraryLoader] [ClientDetectorPlus] Loaded library D:\lil diddy server\libraries\commons-lang\commons-lang\2.6\commons-lang-2.6.jar
+[10:28:58] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[10:28:58] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[10:28:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[10:28:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[10:28:59] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[10:28:59] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[10:29:00] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.9
+[10:29:00] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[10:29:00] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[10:29:01] [Server thread/INFO]: [floodgate] Took 647ms to boot Floodgate
+[10:29:01] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[10:29:01] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
+[10:29:01] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
+[10:29:01] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[10:29:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[10:29:02] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[10:29:02] [Server thread/INFO]: [WorldSpawns] Loading server plugin WorldSpawns v3.1.1
+[10:29:02] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.16+cbf4bd5
+[10:29:02] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@d230543]
+[10:29:02] [Server thread/INFO]: [TreeChopper] Loading server plugin TreeChopper v1.21.4-1.1
+[10:29:02] [Server thread/INFO]: [TheNewEconomy] Loading server plugin TheNewEconomy v0.1.3.5
+[10:29:02] [Server thread/INFO]: [TheNewEconomy] Checking for VaultUnlocked
+[10:29:02] [Server thread/WARN]: [TheNewEconomy] Unable to connect to VaultUnlocked!
+[10:29:02] [Server thread/INFO]: [TheNewEconomy] Checking for Vault
+[10:29:02] [Server thread/WARN]: [TheNewEconomy] Unable to connect to vault!
+[10:29:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.2
+[10:29:02] [Server thread/INFO]: [Passky] Loading server plugin Passky v3.1.0
+[10:29:02] [Server thread/INFO]: [PaperTweaks] Loading server plugin PaperTweaks v0.5.0
+[10:29:02] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.4
+[10:29:02] [Server thread/INFO]: [Maintenance] Loading server plugin Maintenance v4.3.0
+[10:29:02] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.2
+[10:29:02] [Server thread/INFO]: [Logger] Loading server plugin Logger v1.8.0.15
+[10:29:02] [Server thread/INFO]: [LiveKit] Loading server plugin LiveKit v1.4.8
+[10:29:02] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.4.2
+[10:29:03] [Server thread/INFO]: [FancyHolograms] Loading server plugin FancyHolograms v2.5.0
+[10:29:03] [Server thread/INFO]: [ClientDetectorPlus] Loading server plugin ClientDetectorPlus v1.0.1
+[10:29:03] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully loaded FancyHolograms version 2.5.0
+[10:29:03] [Server thread/INFO]: [CDPlus] -------------------------------------------
+[10:29:03] [Server thread/INFO]: [CDPlus] A supported Minecraft version has been detected
+[10:29:03] [Server thread/INFO]: [CDPlus] Your server version is: 1.21.4-232-12d8fe0 (MC: 1.21.4)
+[10:29:03] [Server thread/INFO]: [CDPlus] Continuing plugin startup
+[10:29:03] [Server thread/INFO]: [CDPlus] -------------------------------------------
+[10:29:03] [Server thread/INFO]: [CleanPing] Loading server plugin CleanPing v1.7.0
+[10:29:03] [Server thread/INFO]: [CleanerX] Loading server plugin CleanerX v1.5.1-DEV
+[10:29:03] [Server thread/INFO]: [DiscordRelay] Loading server plugin DiscordRelay v1.0.2
+[10:29:03] [Server thread/INFO]: [Backuper] Loading server plugin Backuper v3.4.4
+[10:29:03] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_21_R3 > NMS_Common > CommandAPIBukkit
+[10:29:03] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[10:29:03] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[10:29:03] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[10:29:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:29:03] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.9
+[10:29:04] [Server thread/INFO]:         __    
+[10:29:04] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.9
+[10:29:04] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[10:29:04] [Server thread/INFO]: 
+[10:29:04] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[10:29:04] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[10:29:04] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[10:29:04] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1042ms)
+[10:29:04] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[10:29:04] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.16+cbf4bd5
+[10:29:04] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[10:29:04] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[10:29:04] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[10:29:05] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
+[10:29:06] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[10:29:06] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[10:29:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[10:29:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:29:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:29:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:29:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:29:06] [Server thread/INFO]: Preparing level "world"
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.2
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: cf773a3
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[10:29:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[10:29:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:29:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:29:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:29:07] [Server thread/INFO]: Time elapsed: 550 ms
+[10:29:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:29:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:29:08] [Server thread/INFO]: Time elapsed: 232 ms
+[10:29:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:29:08] [Server thread/INFO]: Preparing spawn area: 0%
+[10:29:08] [Server thread/INFO]: Time elapsed: 124 ms
+[10:29:08] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[10:29:08] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[10:29:08] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[10:29:08] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
+[10:29:08] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
+[10:29:08] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[10:29:08] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[10:29:08] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[10:29:08] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[10:29:09] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[10:29:09] [Server thread/INFO]: [Essentials] Using locale en_US
+[10:29:09] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:29:09] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:29:09] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[10:29:09] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[10:29:09] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[10:29:09] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[10:29:10] [Server thread/INFO]: [WorldSpawns] Enabling WorldSpawns v3.1.1
+[10:29:10] [Server thread/INFO]: [TreeChopper] Enabling TreeChopper v1.21.4-1.1
+[10:29:10] [Server thread/INFO]: [TheNewEconomy] Enabling TheNewEconomy v0.1.3.5
+[10:29:10] [Server thread/INFO]: [TheNewEconomy] Loading configurations!
+[10:29:12] [Server thread/INFO]: [TheNewEconomy] The New Economy has been enabled!
+[10:29:12] [Server thread/INFO]: [Passky] Enabling Passky v3.1.0
+[10:29:12] [Server thread/INFO]: [PaperTweaks] Enabling PaperTweaks v0.5.0
+[10:29:12] [Server thread/INFO]: [PaperTweaks] Thank you for using PaperTweaks/VanillaTweaks!
+[10:29:12] [Server thread/INFO]: [PaperTweaks] If you have any issues, please visit one of the following links for support:
+[10:29:12] [Server thread/INFO]: [PaperTweaks]   - https://discord.gg/invite/Np6Pcb78rr
+[10:29:12] [Server thread/INFO]: [PaperTweaks]   - https://github.com/MC-Machinations/VanillaTweaks/issues
+[10:29:12] [Server thread/INFO]: [PaperTweaks] You are using the H2 database type.
+[10:29:13] [pool-18-thread-1/WARN]: [floodgate] 
+**********************************
+* You specified an empty prefix in your Floodgate config for Bedrock players!
+* Should a Java player join and a Bedrock player join with the same username, unwanted results and conflicts will happen!
+* We strongly recommend using . as the prefix, but other alternatives that will not conflict include: +, - and *
+**********************************
+[10:29:13] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:29:14] [Server thread/INFO]: [PaperTweaks] Loaded 40 modules
+[10:29:14] [Server thread/INFO]: [PaperTweaks] Enabled 2 modules
+[10:29:14] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.4
+[10:29:14] [Server thread/INFO]: [Maintenance] Enabling Maintenance v4.3.0
+[10:29:15] [Server thread/INFO]: [LPC] Enabling LPC v3.6.2
+[10:29:15] [ForkJoinPool.commonPool-worker-1/WARN]: [Orebfuscator] +------------------------------------------------------------+
+[10:29:15] [ForkJoinPool.commonPool-worker-1/WARN]: [Orebfuscator] |                      UPDATE AVAILABLE                      |
+[10:29:15] [ForkJoinPool.commonPool-worker-1/WARN]: [Orebfuscator] |                                                            |
+[10:29:15] [ForkJoinPool.commonPool-worker-1/WARN]: [Orebfuscator] |   https://modrinth.com/plugin/orebfuscator/version/5.5.6   |
+[10:29:15] [ForkJoinPool.commonPool-worker-1/WARN]: [Orebfuscator] +------------------------------------------------------------+
+[10:29:15] [Server thread/INFO]: [Logger] Enabling Logger v1.8.0.15
+[10:29:15] [Server thread/WARN]: [Logger] Could not determine the seve version is unknown, using the latest known one.
+[10:29:15] [Server thread/INFO]: [Logger] 
+|
+|     __                               
+|    / /   ____  ____ _____ ____  _____
+|   / /   / __ \/ __ `/ __ `/ _ \/ ___/
+|  / /___/ /_/ / /_/ / /_/ /  __/ /    
+| /_____/\____/\__, /\__, /\___/_/     
+|             /____//____/     1.8.0.15 [ Bukkit Version ]        
+|
+| This is a DEV Build, please report any issues!
+|
+| Discord https://discord.gg/MfR5mcpVfX
+|
+[10:29:15] [Server thread/INFO]: [Logger] Essentials Plugin Detected!
+[10:29:15] [Server thread/INFO]: [Logger] Geyser & FloodGate Plugins Detected!
+[10:29:15] [Server thread/WARN]: [Logger] Geyser & FloodGate are not fully supported! If any errors occurs, contact the authors.
+[10:29:15] [Server thread/INFO]: [Logger] §6Thanks to everyone's contributions that helped made this project possible!
+[10:29:15] [Server thread/INFO]: [Logger] Plugin Enabled!
+[10:29:15] [Server thread/INFO]: [LiveKit] Enabling LiveKit v1.4.8
+[10:29:15] [Server thread/INFO]: [LiveKit] Using default permissions from config.yml for connected LiveKit clients
+[10:29:15] [Server thread/INFO]: [LiveKit] Initializing storage adapter...[SQLITE]
+[10:29:19] [Server thread/INFO]: [LiveKit] 466 regions detected for world world took 3005ms
+[10:29:23] [Server thread/INFO]: [LiveKit] 775 regions detected for world world_the_end took 4498ms
+[10:29:24] [Server thread/INFO]: [LiveKit] 57 regions detected for world world_nether took 366ms
+[10:29:24] [Server thread/INFO]: [LiveKit] Console access password: IoX9hTrcsT
+[10:29:24] [LiveKit server/INFO]: [LiveKit] Server listening on 4123 for incoming connections
+[10:29:24] [Server thread/INFO]: [GSit] Enabling GSit v2.4.2
+[10:29:24] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[10:29:24] [Server thread/INFO]: [FancyHolograms] Enabling FancyHolograms v2.5.0
+[10:29:24] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully enabled FancyHolograms version 2.5.0
+[10:29:24] [Server thread/INFO]: [ClientDetectorPlus] Enabling ClientDetectorPlus v1.0.1
+[10:29:24] [Server thread/INFO]: [CDPlus] -------------------------------------------
+[10:29:24] [Server thread/INFO]: [CDPlus] Detected Version 1.21.4-232-12d8fe0 (MC: 1.21.4)
+[10:29:24] [Server thread/INFO]: [CDPlus] Loading settings for Version 1.21.4-232-12d8fe0 (MC: 1.21.4)
+[10:29:25] [Server thread/INFO]: [CDPlus] -------------------------------------------
+[10:29:25] [Server thread/INFO]: [CDPlus] Adventure Library hooked successfully!
+[10:29:25] [Server thread/INFO]: [CDPlus] Loading protocols...
+[10:29:25] [Server thread/INFO]: [CDPlus] Loading managers...
+[10:29:25] [Server thread/INFO]: [CDPlus] Detected FloodgateAPI
+[10:29:25] [Server thread/INFO]: [CDPlus] Detected ViaVersion
+[10:29:25] [Server thread/INFO]: [CDPlus] Detected ProtocolLib
+[10:29:25] [Server thread/INFO]: [CDPlus] Registering commands...
+[10:29:25] [Server thread/INFO]: [CDPlus] Registering listeners...
+[10:29:25] [Server thread/INFO]: [CDPlus] Plugin by: Loving11ish
+[10:29:25] [Server thread/INFO]: [CDPlus] has been loaded successfully
+[10:29:25] [Server thread/INFO]: [CDPlus] Plugin Version: 1.0.1
+[10:29:25] [Server thread/INFO]: [CDPlus] -------------------------------------------
+[10:29:25] [Server thread/INFO]: [CleanPing] Enabling CleanPing v1.7.0
+[10:29:25] [Server thread/INFO]: [CleanPing] 
+   ___ _                 ___ _           
+  / __| |___ __ _ _ _   | _ (_)_ _  __ _ 
+ | (__| / -_) _` | ' \  |  _/ | ' \/ _` |
+  \___|_\___\__,_|_||_| |_| |_|_||_\__, |
+                                   |___/ 
+
+[10:29:25] [Server thread/INFO]: [CleanPing] Server version: 1.21.4-R0.1-SNAPSHOT
+[10:29:25] [Server thread/INFO]: [CleanPing] Loading configuration...
+[10:29:25] [Server thread/INFO]: [CleanPing] Loading commands...
+[10:29:25] [Server thread/INFO]: [CleanPing] Metrics loaded successfully!
+[10:29:25] [Server thread/INFO]: [CleanPing] Plugin successfully loaded!
+[10:29:25] [Server thread/INFO]: [CleanerX] Enabling CleanerX v1.5.1-DEV
+[10:29:25] [FancyLogger/INFO]: [FancyHolograms] (ForkJoinPool.commonPool-worker-1) WARN: 
+[10:29:25] [FancyLogger/INFO]: -------------------------------------------------------
+[10:29:25] [FancyLogger/INFO]: You are not using the latest version of the FancyHolograms plugin.
+[10:29:25] [FancyLogger/INFO]: Please update to the newest version (2.8.0).
+[10:29:25] [FancyLogger/INFO]: https://modrinth.com/plugin/FancyHolograms
+[10:29:25] [FancyLogger/INFO]: -------------------------------------------------------
+[10:29:25] [FancyLogger/INFO]: 
+[10:29:25] [Server thread/INFO]: 
+[10:29:25] [Server thread/INFO]:     __                   __        ___            
+[10:29:25] [Server thread/INFO]:    (_      _  |_  _     |  \  _     |   _  _   _  
+[10:29:25] [Server thread/INFO]:    __) \/ | ) |_ (_| )( |__/ (- \/  |  (- (_| ||| 
+[10:29:25] [Server thread/INFO]:        /                                          
+[10:29:25] [Server thread/INFO]:            ... is proud to present and enable:
+[10:29:25] [Server thread/INFO]:                       * CleanerX v1.5.1-DEV
+[10:29:25] [Server thread/INFO]:                  utilizing all the optimizations of your server Paper 1.21.4-232-12d8fe0 (MC: 1.21.4)!         
+[10:29:25] [Server thread/INFO]: 
+[10:29:25] [Server thread/INFO]:     Join our Discord! https://discord.gg/Zk6mxv7eMh
+[10:29:25] [Server thread/INFO]: 
+[10:29:25] [Server thread/INFO]: 
+[10:29:25] [Server thread/INFO]: [CleanerX] StatsCollector is disabled in the configuration.
+[10:29:25] [Server thread/INFO]: [DiscordRelay] Enabling DiscordRelay v1.0.2
+[10:29:25] [ForkJoinPool.commonPool-worker-1/INFO]: [CleanerX] New release version 1.5.2 is available on https://hangar.papermc.io/SyntaxDevTeam/CleanerX
+[10:29:26] [Server thread/INFO]: [net.dv8tion.jda.api.JDA] Login Successful!
+[10:29:27] [JDA MainWS-ReadThread/INFO]: [net.dv8tion.jda.internal.requests.WebSocketClient] Connected to WebSocket
+[10:29:27] [JDA MainWS-ReadThread/INFO]: [net.dv8tion.jda.api.JDA] Finished Loading!
+[10:29:27] [Server thread/INFO]: [DiscordRelay] Discord bot connected successfully!
+[10:29:27] [Server thread/INFO]: [Backuper] Enabling Backuper v3.4.4
+[10:29:27] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[10:29:27] [Server thread/INFO]: [Backuper] Loading config...
+[10:29:27] [Server thread/INFO]: [Backuper] Config loading completed
+[10:29:27] [Server thread/INFO]: [Backuper] Indexing storages...
+[10:29:27] [Server thread/INFO]: [Backuper] Unifying backup names format
+[10:29:27] [Server thread/INFO]: [Backuper] Backup names format unification completed
+[10:29:27] [Server thread/INFO]: [Backuper] Initializing BStats...
+[10:29:27] [Server thread/INFO]: [Backuper] BStats initialization completed
+[10:29:28] [Server thread/INFO]: [Backuper] 
+---------------------------------------------------------------------------
+Please, if you find any issues related to the Backuper
+Create an issue using the link: https://github.com/DVDishka/Backuper/issues
+---------------------------------------------------------------------------
+[10:29:28] [Server thread/INFO]: 
+---------------------------------------------------------------------------
+You are using an outdated version of Backuper!
+Please update it to the latest and check the changelist!
+Download link: https://modrinth.com/plugin/backuper/versions#all-versions
+Download link: https://hangar.papermc.io/Collagen/Backuper
+---------------------------------------------------------------------------
+[10:29:28] [Server thread/INFO]: [Backuper] Backuper plugin has been enabled!
+[10:29:28] [Server thread/INFO]: [spark] Starting background profiler...
+[10:29:28] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[10:29:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:29:28] [Server thread/INFO]: [Geyser-Spigot] 
+[10:29:28] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b936 (git-master-5abc036)
+[10:29:28] [Server thread/INFO]: [Geyser-Spigot] 
+[10:29:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:29:31] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[10:29:31] [Server thread/INFO]: [Geyser-Spigot] Done (2.486s)! Run /geyser help for help!
+[10:29:31] [Folia Async Scheduler Thread #5/INFO]: [Backuper] Deleting old backups...
+[10:29:31] [Server thread/INFO]: Done preparing level "world" (24.645s)
+[10:29:31] [Server thread/INFO]: Starting remote control listener
+[10:29:31] [Server thread/INFO]: Thread RCON Listener started
+[10:29:31] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[10:29:31] [Folia Async Scheduler Thread #5/INFO]: 
+------------------------------------------
+The DeleteOldBackups task has been started
+------------------------------------------
+You can check the task status using command
+/backuper task status
+You can cancel the task using command
+/backuper task cancel
+------------------------------------------
+[10:29:31] [Folia Async Scheduler Thread #5/INFO]: [Backuper] DeleteOldBackups task completed
+[10:29:31] [Folia Async Scheduler Thread #5/INFO]: [Backuper] Deleting broken backups...
+[10:29:31] [Folia Async Scheduler Thread #5/INFO]: 
+------------------------------------------
+The DeleteBrokenBackups task has been started
+------------------------------------------
+You can check the task status using command
+/backuper task status
+You can cancel the task using command
+/backuper task cancel
+------------------------------------------
+[10:29:31] [Folia Async Scheduler Thread #5/INFO]: [Backuper] DeleteBrokenBackups task completed
+[10:29:31] [Folia Async Scheduler Thread #5/INFO]: [Backuper] Initializing auto backup...
+[10:29:31] [Folia Async Scheduler Thread #5/INFO]: [Backuper] Auto backup initialization completed
+[10:29:31] [Server thread/INFO]: Running delayed init tasks
+[10:29:31] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[10:29:31] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[10:29:31] [ForkJoinPool.commonPool-worker-8/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.120. Download it here: https://geysermc.org/download
+[10:29:31] [Server thread/INFO]: Done (45.033s)! For help, type "help"
+[10:29:31] [Server thread/INFO]: [Backuper] Server will be backed up in 1 second(s)
+[10:29:31] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.4.2
+[10:29:31] [Craft Scheduler Thread - 22 - ClientDetectorPlus/INFO]: [CDPlus] *-------------------------------------------*
+[10:29:31] [Craft Scheduler Thread - 22 - ClientDetectorPlus/INFO]: [CDPlus] A new version is available!
+[10:29:31] [Craft Scheduler Thread - 22 - ClientDetectorPlus/INFO]: [CDPlus] *-------------------------------------------*
+[10:29:31] [Craft Scheduler Thread - 16 - Passky/INFO]: 
+
+[]============[Enabling Passky]============[]
+|
+| Information:
+|
+|   Name: Passky
+|   Developer: Black1_TV
+|   Version: 3.1.0 (update available)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[10:29:32] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] There is a new EssentialsX version available for download: 2.21.2.
+[10:29:32] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
+[10:29:32] [Folia Async Scheduler Thread #5/INFO]: [Backuper] The backup cycle will be skipped since there were no changes from the previous backup
+[10:30:25] [pool-42-thread-1/WARN]: [LiveKit] LiveKit proxy not available. Only direct connections possible (Port forwarding for LiveKit port 4123 required!)
+[11:37:50] [Server thread/INFO]: Stopping the server
+[11:37:50] [Server thread/INFO]: Stopping server
+[11:37:50] [Server thread/INFO]: [Backuper] Disabling Backuper v3.4.4
+[11:37:50] [Server thread/INFO]: [Backuper] Backuper plugin has been disabled!
+[11:37:50] [Server thread/INFO]: [DiscordRelay] Disabling DiscordRelay v1.0.2
+[11:37:51] [Server thread/WARN]: [net.dv8tion.jda.api.hooks.InterfacedEventManager] Trying to remove a listener that does not implement EventListener: java.util.Collections$UnmodifiableRandomAccessList
+[11:37:51] [Server thread/INFO]: [DiscordRelay] Discord bot disconnected successfully.
+[11:37:51] [Server thread/INFO]: [CleanerX] Disabling CleanerX v1.5.1-DEV
+[11:37:51] [Server thread/INFO]: [CleanerX] CleanerX 1.5.1-DEV has been disabled ☹️
+[11:37:51] [Server thread/INFO]: [CleanPing] Disabling CleanPing v1.7.0
+[11:37:51] [Server thread/INFO]: [CleanPing] Clearing instances...
+[11:37:51] [Server thread/INFO]: [CleanPing] Plugin successfully disabled!
+[11:37:51] [Server thread/INFO]: [ClientDetectorPlus] Disabling ClientDetectorPlus v1.0.1
+[11:37:51] [Server thread/INFO]: [CDPlus] -----------------------------------------
+[11:37:51] [Server thread/INFO]: [CDPlus] Plugin has been disabled!
+[11:37:51] [Server thread/INFO]: [CDPlus] PacketEvents has been terminated successfully!
+[11:37:51] [Server thread/INFO]: [CDPlus] Listeners have unregistered successfully!
+[11:37:51] [Server thread/INFO]: [CDPlus] Background tasks have disabled successfully!
+[11:37:51] [Server thread/INFO]: [CDPlus] Adventure Library hook closed successfully!
+[11:37:51] [Server thread/INFO]: [CDPlus] -----------------------------------------
+[11:37:51] [Server thread/INFO]: [CDPlus] Shutdown complete!
+[11:37:51] [Server thread/INFO]: [CDPlus] -----------------------------------------
+[11:37:51] [Server thread/INFO]: [FancyHolograms] Disabling FancyHolograms v2.5.0
+[11:37:51] [Server thread/INFO]: [GSit] Disabling GSit v2.4.2
+[11:37:51] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully disabled FancyHolograms version 2.5.0
+[11:37:51] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[11:37:51] [Server thread/INFO]: [LiveKit] Disabling LiveKit v1.4.8
+[11:37:51] [LiveKit server/INFO]: [LiveKit] Server shutdown
+[11:37:51] [Server thread/INFO]: [Logger] Disabling Logger v1.8.0.15
+[11:37:51] [Server thread/INFO]: [Logger] Plugin Disabled!
+[11:37:51] [Server thread/INFO]: [LPC] Disabling LPC v3.6.2
+[11:37:51] [Server thread/INFO]: [Maintenance] Disabling Maintenance v4.3.0
+[11:37:51] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.5.4
+[11:37:51] [Server thread/INFO]: [PaperTweaks] Disabling PaperTweaks v0.5.0
+[11:37:51] [Server thread/INFO]: [Passky] Disabling Passky v3.1.0
+[11:37:51] [Server thread/INFO]: 
+
+[]============[Disabling Passky]============[]
+|
+| Information:
+|
+|   Name: Passky
+|   Developer: Black1_TV
+|   Version: 3.1.0 (update available)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[11:37:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.2
+[11:37:51] [Server thread/INFO]: [TheNewEconomy] Disabling TheNewEconomy v0.1.3.5
+[11:37:51] [Server thread/INFO]: [TreeChopper] Disabling TreeChopper v1.21.4-1.1
+[11:37:51] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.16+cbf4bd5
+[11:37:51] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[11:37:51] [Server thread/INFO]: [WorldSpawns] Disabling WorldSpawns v3.1.1
+[11:37:51] [Server thread/ERROR]: Error occurred while disabling WorldSpawns v3.1.1
+java.lang.NullPointerException: Cannot invoke "java.util.List.forEach(java.util.function.Consumer)" because "dev.greenadine.worldspawns.lib.plcommons.PLCommonsPlugin.highPriorityHooks" is null
+	at worldspawns-3.1.1.jar/dev.greenadine.worldspawns.lib.plcommons.PLCommonsPlugin.onDisable(PLCommonsPlugin.java:132) ~[worldspawns-3.1.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:627) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1007) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:757) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1294) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-232-12d8fe0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:37:51] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[11:37:51] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[11:37:51] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[11:37:51] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[11:37:51] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.1
+[11:37:51] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[11:37:51] [WebSocketConnectReadThread-248/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[11:37:51] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[11:37:51] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.9
+[11:37:51] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[11:37:51] [Server thread/INFO]: [LuckPerms] Closing storage...
+[11:37:51] [Server thread/INFO]: [LuckPerms] Goodbye!
+[11:37:51] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[11:37:51] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[11:37:51] [Server thread/INFO]: Saving players
+[11:37:52] [Server thread/INFO]: Saving worlds
+[11:37:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 22 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[11:37:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Saved 19 block chunks, 30 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[11:37:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[11:37:52] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[11:37:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:37:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:37:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:37:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:37:52] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[11:37:52] [Server thread/INFO]: All I/O tasks to complete
+[11:37:52] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[11:37:52] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

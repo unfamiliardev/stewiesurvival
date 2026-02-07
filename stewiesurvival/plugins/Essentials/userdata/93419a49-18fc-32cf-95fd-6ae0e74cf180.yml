@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.235.70.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754393114818
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754939440522
+  login: 1754939329006
+money: '0'
+last-account-name: Purphel
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -29.47463157267306
+  y: 69.17675927506424
+  z: 468.58416573363434
+  yaw: -104.07445526123047
+  pitch: 7.997516632080078
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -64.08028343215598
+  y: 70.0
+  z: 528.0564479629181
+  yaw: 12.569873809814453
+  pitch: 19.270231246948242

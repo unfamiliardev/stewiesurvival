@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.253.135.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1759253353516
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1759253354282
+  login: 1759252569945
+money: '0'
+last-account-name: MooniskoLive
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 7.990444309571072
+  y: 63.0
+  z: -7.651487497743393
+  yaw: -171.67153930664062
+  pitch: 23.09998321533203
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 71.5
+  y: 72.0
+  z: 624.5
+  yaw: 12.07537841796875
+  pitch: 75.94818878173828
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: 78.15363725650002
+    y: 52.0
+    z: 631.8930973645527
+    yaw: -87.13792419433594
+    pitch: 28.909957885742188

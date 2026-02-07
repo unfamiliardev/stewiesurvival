@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.236.81.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1753453566484
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753453584633
+  login: 1753451900090
+money: '0'
+last-account-name: eeniminimeinimoo
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 75.5
+  y: 69.0
+  z: 661.5
+  yaw: 89.99999237060547
+  pitch: 0.0
+logoutlocation:
+  world: f2bbf28c-48d8-47be-a75c-b318348bf91d
+  world-name: world_nether
+  x: 22.707948964524423
+  y: 55.0
+  z: 150.03504205673008
+  yaw: 168.8004913330078
+  pitch: 33.30003356933594
+homes:
+  home:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -47.17626507482844
+    y: 65.0
+    z: 573.1486373932943
+    yaw: 146.4500274658203
+    pitch: 8.559246063232422
+  lol:
+    world: f2bbf28c-48d8-47be-a75c-b318348bf91d
+    world-name: world_nether
+    x: 3.056961120780204
+    y: 100.0
+    z: 70.99589960128836
+    yaw: 176.15042114257812
+    pitch: 44.70002746582031
+  xpfarm:
+    world: 9ab27668-58b8-40d6-b246-faf3843fce40
+    world-name: world
+    x: -258.6680024161303
+    y: 181.0
+    z: 491.71649259124143
+    yaw: 162.35354614257812
+    pitch: 25.350011825561523

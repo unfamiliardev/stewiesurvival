@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.16.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751820872143
+  login: 1751820851878
+money: '0'
+last-account-name: GooseAbongo
+logoutlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: 19.47948
+  y: 68.0
+  z: -8.204743
+  yaw: -78.84988403320312
+  pitch: 6.7460784912109375
+lastlocation:
+  world: 9ab27668-58b8-40d6-b246-faf3843fce40
+  world-name: world
+  x: -53.077454
+  y: 64.19646
+  z: -39.313362
+  yaw: 102.22869873046875
+  pitch: 22.346923828125
